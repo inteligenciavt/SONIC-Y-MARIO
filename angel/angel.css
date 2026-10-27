@@ -1,0 +1,27 @@
+.imagen-borde{
+	filter: blur(5px);
+	filter: opacity(10%);
+	filter: drop-shadow(16px 16px 2px red);
+	filter: brightness(10%);
+	border-radius: 50%;
+	transform: scaleX(-1);
+	flip: horizontal;
+}
+h1{
+	transform: translate(880px, -15px);
+	font-family: calibri;
+	color: blue;
+	margin-top:40px ;
+
+}
+.h1-palabra{
+	font-family: calibri;
+	color: red;
+	margin-left:50px;
+	transform: translate(30px, -15px);
+}
+.imagen-sombra{
+	filter: blur(2px);
+	filter: drop-shadow(16px 16px 2px blue );
+	transform: scaleX(-1);
+}
